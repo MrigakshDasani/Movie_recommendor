@@ -1,0 +1,45 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+*.env
+.env
+
+# Logs
+*.log
+
+# System Junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Compiled code
+*.so
+*.dll
+*.o
+*.out
+
+# Streamlit cache (optional)
+.streamlit/config.toml
+
+# VS Code settings
+.vscode/
+
+# Python Bytecode
+*.pyc
