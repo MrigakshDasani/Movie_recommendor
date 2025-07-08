@@ -1,6 +1,6 @@
-# 🎬 AI-Powered Movie Recommender System
+# 🎬 Filmflair (AI-Powered Movie Recommender System)
 
-An intelligent, interactive, and beautifully designed movie recommendation system built with **Streamlit**, offering users personalized movie suggestions based either on genre or similar movie titles. 
+Filmflair is an intelligent, interactive, and beautifully designed movie recommendation system built with **Streamlit**, offering users personalized movie suggestions based either on genre or similar movie titles. 
 The system is powered by advanced **NLP techniques**, **TF-IDF vectorization**, and real-time data fetching from the **TMDB API**.
 (Search for hollywood movies for better results)
 
