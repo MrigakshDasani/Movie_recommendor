@@ -57,7 +57,7 @@ tfidf = TfidfVectorizer(max_features=8000, stop_words='english', ngram_range=(1,
 vectors = tfidf.fit_transform(new_df['tags']).toarray()
 similarity = cosine_similarity(vectors)
 
-API_KEY = '8f16e318d32dbbfee9a2197795f5be42'
+API_KEY = Your_API_KEY
 
 def fetch_poster(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=en-US"
